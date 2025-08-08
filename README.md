@@ -12,7 +12,6 @@ Este challenge esta orientado a analizar, desarrollar, modelar y resolver datase
   - [✨ Características](#-características)
   - [🛠️ Tecnologías utilizadas](#️-tecnologías-utilizadas)
   - [⚙️ Instalación](#️-instalación)
-  - [▶️ Uso](#️-uso)
   - [📂 Estructura del proyecto](#-estructura-del-proyecto)
   - [🤝 Contribuciones](#-contribuciones)
   - [📜 Licencia](#-licencia)
