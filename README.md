@@ -28,25 +28,31 @@ Este proyecto ayuda a desarrollar modelos que puedan predecir la evasión de cli
 
 ## ✨ Características
 
-- ✅ Funcionalidad principal 1  
+- ✅ Análisis.
 
-- ✅ Funcionalidad principal 2  
+- ✅ Proceso de transformación.
 
-- ✅ Soporte para [framework/librería]  
+- ✅ Proceso de normalización.
+  
+- ✅ Proceso de balanceo. 
 
-- ✅ Fácil de instalar y usar  
+- ✅ Proceso de entrenamiento.
+
+- ✅ Proceso de comparación de rendimiento de modelos entrenados.
+
+- ✅ Proceso de evaluación.
+   
+- ✅ Redacción de conclusión, y propuesta de estrategias.
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Lenguajes:** JavaScript, Python  
+- **Lenguajes:** Python.
 
-- **Frameworks/Librerías:** React, Express, Pandas, NumPy  
+- **Frameworks/Librerías:** Pandas, NumPy, Matplotlib, Seaborn, SKlearn, IMBLearn, pyplot, .
 
-- **Base de datos:** MongoDB, MySQL (opcional)  
-
-- **Herramientas:** Docker, Git, etc.
+- **Herramientas:** Git.
 
 ---
 
@@ -55,60 +61,22 @@ Este proyecto ayuda a desarrollar modelos que puedan predecir la evasión de cli
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/nombre-proyecto.git
+git clone https://github.com/kevirui/challenge-telecom-x.git
 ```
 
 2. Entrar al directorio del proyecto:
 
 ```bash
-cd nombre-proyecto
-```
-
-3. Instalar dependencias (ejemplo con Node.js):
-
-```bash
-npm install
-```
-
-O con Python:
-
-```bash
-pip install -r requirements.txt
-```
-
-## ▶️ Uso
-
-Ejemplo para correr el proyecto:
-
-```bash
-npm run dev
-```
-
-O con Python:
-
-```bash
-python main.py
-```
-
-Luego abrir en el navegador:
-
-```bash
-http://localhost:3000
+cd challenge-telecom-x
 ```
 
 ## 📂 Estructura del proyecto
 
 ```bash
-nombre-proyecto/
-│── src/             # Código fuente
-│   ├── components/  # Componentes reutilizables (frontend)
-│   ├── routes/      # Rutas (backend)
-│   ├── utils/       # Funciones auxiliares
-│── data/            # Archivos de datos (si aplica)
-│── tests/           # Pruebas
+challenge-telecom-x/
+│── notebooks/             # Código fuente
+│── data/            # Archivos de datos 
 │── README.md        # Documentación
-│── package.json     # Configuración Node.js
-│── requirements.txt # Dependencias Python
 ```
 
 ## 🤝 Contribuciones
@@ -139,10 +107,10 @@ Kevin Agustin Ruiz
 
 Si quieres saber más sobre mí o mis proyectos, puedes encontrarme aquí:
 
-- 📧 [Email](mailto:tuemail@ejemplo.com)
+- 📧 [Email](mailto:kevinagustinrockz@gmail.com)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/kevinagustin/))
 
-- 🐙 [GitHub](https://github.com/tuusuario)
+- 🐙 [GitHub]([https://github.com/tuusuario](https://github.com/kevirui))
 
 - 🌐 [Portafolio Web](https://kevinruiz.dev)
